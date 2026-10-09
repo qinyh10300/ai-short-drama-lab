@@ -1,0 +1,4 @@
+date,asset,provider,model,duration_seconds,resolution,status,credits_used,cny_consumption,cny_paid,notes
+2026-09-17,cast-scene-reference,builtin-imagegen,not-exposed,,,completed,,,,"Generated one reference image; tool did not expose RMB billing"
+2026-09-17,acting-test,jimeng,Seedance 2.5,8,,not-submitted,0,0,0,"Waiting for user login and actual generation quote"
+2026-09-17,final-film,jimeng,Seedance 2.5,25,,not-submitted,0,0,0,"Generate only after acting test passes"
